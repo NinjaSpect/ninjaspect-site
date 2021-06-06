@@ -6,6 +6,8 @@ https://ninjaspect.byoo.repl.co
 
 Different elements of the main site is stored as separate html files in `public/elements/`.
 
+These elements are rendered through `render.js` in `public/js/`
+
 ```text
 ninjaspect-site/
 ├── public/
