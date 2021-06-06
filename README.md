@@ -42,11 +42,9 @@ The site currently runs on Node.js.
 
 To build the static files for the site follow the below directions:
 
-<ol>
-<li>Run <code>git clone https://github.com/BlazerYoo/ninjaspect-site.git</code> or [download](https://github.com/BlazerYoo/ninjaspect-site/archive/refs/heads/main.zip) repo.</li>
-<li>Run <code>npm i</code></li>
-<li>Run <code>npm run build</code></li>
-</ol>
+1. Run `git clone https://github.com/BlazerYoo/ninjaspect-site.git` or [download](https://github.com/BlazerYoo/ninjaspect-site/archive/refs/heads/main.zip) repo
+2. Run `npm i`
+3. Run `npm run build`
 
 ## Make style changes
 
