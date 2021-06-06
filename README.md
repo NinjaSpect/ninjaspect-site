@@ -46,6 +46,8 @@ To build the static files for the site follow the below directions:
 2. Run `npm i`
 3. Run `npm run build`
 
+This will create a directory called `build` directly under `ninjaspect-site`. The `build` directory contains all the static files.
+
 ## Make style changes
 
 To make style changes to the site, `cd` into `public/mybulma/` and run `npm i`.
