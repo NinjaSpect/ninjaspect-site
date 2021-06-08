@@ -44,7 +44,8 @@ To build the static files for the site follow the below directions:
 
 1. Run `git clone https://github.com/BlazerYoo/ninjaspect-site.git` or [download](https://github.com/BlazerYoo/ninjaspect-site/archive/refs/heads/main.zip) repo
 2. Run `npm i`
-3. Run `npm run build`
+3. Run `chmod +x build.sh` to ensure execution permission
+4. Run `npm run build`
 
 This will create a directory called `build` directly under `ninjaspect-site`. The `build` directory contains all the static files.
 
