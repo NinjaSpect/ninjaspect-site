@@ -1,6 +1,6 @@
 # ninjaspect-site
  
-https://ninjaspect.byoo.repl.co
+https://ninjaspect.repl.co/
 
 ## Structure
 
