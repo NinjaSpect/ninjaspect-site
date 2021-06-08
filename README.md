@@ -4,7 +4,7 @@ https://ninjaspect.byoo.repl.co
 
 ## Structure
 
-Different elements of the main site is stored as separate html files in `public/elements/`.
+Different elements of the main site is stored as separate html files in `public/elements/`. This is to have cleaner code.
 
 These elements are rendered through `render.js` in `public/js/`.
 
